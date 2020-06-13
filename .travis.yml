@@ -1,4 +1,4 @@
-dist: xenial
+wdist: xenial
 sudo: required
 os:
   - linux
